@@ -1,0 +1,182 @@
+html {	
+	letter-spacing: 1px;
+}
+
+body {
+	background-color: #FFEAAC;
+	margin: 0px;
+	padding: 10px 15px;
+	font-family: Palatino "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	font-size: 14px;
+    letter-spacing: 1px;
+	color: 000;
+}
+
+p {
+	font-family: "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	font-size: 14px;
+    letter-spacing: 1px;
+}
+
+
+a {
+	color: #A40E0E;
+}
+
+a:visited{
+	color: #A40E0E;
+} 
+
+a:hover {
+	color: #FDC400;	
+}
+
+h1,h2,h3,h4,h5,h6 {
+	line-height: 1.5;
+	letter-spacing: 2px;
+    font-family: "Trebuchet MS", Baskerville, "Goudy Old Style", "Palatino", "Book Antiqua", serif;
+	color: #A40E0E;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+h2 {
+	font-size: 23px;	
+	color: #F1501D;
+}
+
+h3 {
+	font-size: 21px;
+	color: #F1501D;	
+	margin-top: 1em;
+	margin-bottom: 0.0em;	
+}
+
+h4 {
+	font-size: 19px;
+}
+
+h5 {
+	font-size: 17px;
+}
+
+h6 {
+	font-size: 15px;
+}
+
+
+ul {
+	list-style: circle;
+	padding: 10px 0px 0px 20px;
+	margin: 0px;
+}
+
+ol {
+	padding: 10px 0px 0px 20px;
+	margin: 0px;
+	display: block;
+	font-weight: bold;
+}
+
+ul li {
+	color: #A40E0E;
+}
+
+ol li {
+	color: #A40E0E;
+}
+
+code, pre {
+  padding: 0 3px 2px;
+  font-family: Monaco, Andale Mono, Courier New, monospace;
+  font-size: 11px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+pre {
+  display: block;
+  padding: 8.5px;
+  margin: 0 0 18px;
+  line-height: 20px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+
+pre {
+	background:#CD0808;
+}
+
+code {
+	background-color:#CD0808;
+	color: #fff;	
+	padding: 1px 3px;
+}
+
+
+pre {
+	background-color: #CD0808;
+}
+
+pre > code {
+	margin: 0px;
+	padding: 5px;
+	border: 0px;
+	color: #eee;
+	background-color: #CD0808;
+}
+
+blockquote {
+	padding: 5px 10px;
+	border-left: 9px solid #CD0808;
+	padding: 10px 0px 10px 10px;
+	color: #CD0808;
+	margin: 15px 0px;
+	font-family: Arial, Geneva, sans-serif;
+	letter-spacing: 2px;
+}
+
+table {
+	width: auto;
+}
+
+table, table th, table td {
+	border: 0px;
+	padding: 5px;
+}
+
+table td, table th {
+	padding: 6px 10px;
+}
+
+table thead th {
+	color: whitesmoke;
+	background-color: #FDC400;
+	padding: 5px;
+}
+
+small {
+	font-size: 90%;
+}
+
+::selection {
+	background: #FDC400;
+}
+
+::-moz-selection {
+	background: #FDC400;
+}
+
+
+
